@@ -1,11 +1,11 @@
-<video src="rhttps://github.com/JonathanADB/miReadme/blob/main/2887463-hd_1920_1080_25fps.mp4" width="320" height="240" controls>
-  Tu navegador no soporta la etiqueta de video.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TU_CODIGO_DE_VIDEO" frameborder="0" allowfullscreen></iframe>
+
 </video>
 
 
 # miReadme
 Bienvenido/a a mi Repositorio
-Sobre Mí
+
 
 <div align="end"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
