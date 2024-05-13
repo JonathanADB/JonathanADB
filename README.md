@@ -1,15 +1,8 @@
-<div style="display: flex;">
-  <div>
 
-    <p>Bienvenido/a a mi Repositorio</p>
-  </div>
-  <img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" alt="Programador" style="margin-left: auto;">
-</div>
+<img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" align="right">
 
 
 
-
-<div align="end"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
