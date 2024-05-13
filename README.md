@@ -1,5 +1,5 @@
 # Bienvenido/a a mi Repositorio
-<img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" alt="Programador" style="margin-left: auto;">
+<img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" alt="Programador">
 
 ---
 
