@@ -1,8 +1,7 @@
-<div style="display: flex;">
-  
-    # miReadme
-    <p>Bienvenido/a a mi Repositorio</p>
+# miReadme
 
+<div style="display: flex;">
+  <p>Bienvenido/a a mi Repositorio</p>
   <img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" alt="Programador" style="margin-left: auto;">
 </div>
 
