@@ -1,7 +1,11 @@
-# miReadme
+<div>
+  # miReadme
 <p>
   <img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" align="right">
 </p>
+</div>
+
+
 
 
 ---
