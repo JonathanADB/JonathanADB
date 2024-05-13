@@ -1,5 +1,10 @@
-# Bienvenido/a a mi Repositorio
-<img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" alt="Programador">
+<table style="width:100%">
+  <tr>
+    <td><h1>Bienvenido/a a mi Repositorio</h1></td>
+    <td align="right"><img src="https://github.com/JonathanADB/JonathanADB/blob/main/giphy.gif" alt="Programador"></td>
+  </tr>
+</table>
+
 
 ---
 
