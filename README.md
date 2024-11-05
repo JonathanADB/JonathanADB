@@ -35,6 +35,7 @@ Tecnologías que Domino
     JavaScript
     Python
     Node.js
+    Java
     Angular
     React
     Vue
