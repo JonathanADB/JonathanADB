@@ -46,6 +46,7 @@ Si estás interesado/a en colaborar en proyectos interesantes o simplemente quie
 
     Email: jonathanalbertodominguezblanco@gmail.com
     LinkedIn: https://www.linkedin.com/in/jonathan-programador-dominguez
+    Portfolio web: https://jonathanadb.netlify.app/ 
 
 ¡Gracias por visitar mi repositorio!
 
